@@ -1,0 +1,10 @@
+body {font-family: "Helvetica"; text-align: center;}
+.head {color:white; background-image: url(../images/building.png)}
+h1 {font-size:70px; font-weight: bold;}
+h2 {font-size : 32px; font-weight:bold}
+.NyBanner {color:white; font-size:23px;background-image: url(../images/building.png)}
+h3 {font-size : 23px; font-weight:bold}
+p {font-size: 14px}
+a {font-size: 18px; color:white}
+.footer {background-color: dimgray; color: white;text-align: left}
+.footerp {font-size:11px}
